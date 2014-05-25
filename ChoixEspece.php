@@ -24,6 +24,8 @@ echo "</select>";
 <p><a href="RajoutEspece.html">Votre espèce n'existe pas ? Ajouter en une  !</a> 
 </p>
 
+
 <input type="submit" value="Continuez" />
 </form>
+<a href='bonjourClient.html'>Retourner à la page d'accueil</a>
 </html>
